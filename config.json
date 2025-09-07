@@ -1,0 +1,62 @@
+{
+    "honeypot": {
+        "name": "CyberHoneypot",
+        "type": "low-interaction",
+        "description": "A comprehensive honeypot system for cybersecurity research and threat detection"
+    },
+    "services": {
+        "web": {
+            "enabled": true,
+            "port": 8080,
+            "host": "0.0.0.0",
+            "description": "Fake web server with vulnerable endpoints"
+        },
+        "ssh": {
+            "enabled": true,
+            "port": 2222,
+            "host": "0.0.0.0",
+            "description": "Fake SSH server for brute force detection"
+        },
+        "database": {
+            "enabled": true,
+            "port": 3306,
+            "host": "0.0.0.0",
+            "db_type": "mysql",
+            "description": "Fake database server for SQL injection attempts"
+        }
+    },
+    "logging": {
+        "level": "INFO",
+        "file": "honeypot.log",
+        "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+        "max_file_size": "10MB",
+        "backup_count": 5
+    },
+    "monitoring": {
+        "enabled": true,
+        "packet_capture": true,
+        "file_integrity": true,
+        "process_monitoring": true,
+        "attack_analysis": true
+    },
+    "isolation": {
+        "enabled": true,
+        "restrict_outbound": true,
+        "allowed_ports": [80, 443, 53],
+        "allowed_hosts": [],
+        "blocked_ports": [22, 23, 25, 53, 80, 443, 993, 995]
+    },
+    "security": {
+        "max_login_attempts": 5,
+        "lockout_duration": 300,
+        "enable_brute_force_detection": true,
+        "enable_scanning_detection": true
+    },
+    "dashboard": {
+        "enabled": true,
+        "port": 9090,
+        "host": "127.0.0.1",
+        "username": "admin",
+        "password": "honeypot123"
+    }
+}

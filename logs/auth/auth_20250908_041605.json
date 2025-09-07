@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-09-08T04:16:05.949915",
+  "service": "web",
+  "source_ip": "127.0.0.1",
+  "username": "admin",
+  "password": "password123",
+  "success": false,
+  "password_hash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+}

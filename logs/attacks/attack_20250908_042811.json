@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-09-08T04:28:11.601740",
+  "attack_type": "404_scanning",
+  "source_ip": "127.0.0.1",
+  "details": {
+    "requested_path": "/favicon.ico",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+    "attack_type": "path_enumeration"
+  },
+  "session_id": "72934827d9e0793f"
+}

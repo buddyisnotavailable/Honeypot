@@ -1,0 +1,73 @@
+2025-09-08 04:12:06,461 - Honeypot - INFO - SYSTEM: Honeypot system initialized
+2025-09-08 04:12:06,528 - Honeypot - INFO - SYSTEM: Initializing honeypot services...
+2025-09-08 04:12:06,535 - Honeypot - INFO - SYSTEM: Initialized 3 services
+2025-09-08 04:12:06,535 - Honeypot - INFO - SYSTEM: Starting honeypot services...
+2025-09-08 04:12:06,536 - Honeypot - INFO - SYSTEM: Started web service on port 8080
+2025-09-08 04:12:06,536 - Honeypot - INFO - SYSTEM: Started ssh service on port 2222
+2025-09-08 04:12:06,537 - Honeypot - INFO - SYSTEM: SSH honeypot listening on 0.0.0.0:2222
+2025-09-08 04:12:06,537 - Honeypot - INFO - SYSTEM: Started database service on port 3306
+2025-09-08 04:12:06,537 - Honeypot - INFO - SYSTEM: Database honeypot (mysql) listening on 0.0.0.0:3306
+2025-09-08 04:12:06,538 - Honeypot - INFO - SYSTEM: All services started successfully
+2025-09-08 04:12:06,602 - Honeypot - INFO - SYSTEM: Honeypot system is running...
+2025-09-08 04:12:33,867 - Honeypot - INFO - SYSTEM: Received signal 2, shutting down...
+2025-09-08 04:12:33,867 - Honeypot - INFO - SYSTEM: Stopping honeypot services...
+2025-09-08 04:12:38,881 - Honeypot - INFO - SYSTEM: Stopped web service
+2025-09-08 04:12:38,882 - Honeypot - INFO - SYSTEM: Stopped ssh service
+2025-09-08 04:12:38,882 - Honeypot - INFO - SYSTEM: Stopped database service
+2025-09-08 04:12:38,883 - Honeypot - INFO - SYSTEM: All services stopped
+2025-09-08 04:12:38,883 - Honeypot - INFO - SYSTEM: Stopping honeypot services...
+2025-09-08 04:12:43,897 - Honeypot - INFO - SYSTEM: Stopped web service
+2025-09-08 04:12:43,897 - Honeypot - INFO - SYSTEM: Stopped ssh service
+2025-09-08 04:12:43,898 - Honeypot - INFO - SYSTEM: Stopped database service
+2025-09-08 04:12:43,898 - Honeypot - INFO - SYSTEM: All services stopped
+2025-09-08 04:15:51,972 - Honeypot - INFO - SYSTEM: Honeypot system initialized
+2025-09-08 04:15:52,019 - Honeypot - INFO - SYSTEM: Initializing honeypot services...
+2025-09-08 04:15:52,023 - Honeypot - INFO - SYSTEM: Initialized 3 services
+2025-09-08 04:15:52,024 - Honeypot - INFO - SYSTEM: Starting honeypot services...
+2025-09-08 04:15:52,024 - Honeypot - INFO - SYSTEM: Started web service on port 8080
+2025-09-08 04:15:52,025 - Honeypot - INFO - SYSTEM: Started ssh service on port 2222
+2025-09-08 04:15:52,025 - Honeypot - INFO - SYSTEM: SSH honeypot listening on 0.0.0.0:2222
+2025-09-08 04:15:52,026 - Honeypot - INFO - SYSTEM: Started database service on port 3306
+2025-09-08 04:15:52,026 - Honeypot - INFO - SYSTEM: All services started successfully
+2025-09-08 04:15:52,026 - Honeypot - INFO - SYSTEM: Database honeypot (mysql) listening on 0.0.0.0:3306
+2025-09-08 04:15:52,091 - Honeypot - INFO - SYSTEM: Honeypot system is running...
+2025-09-08 04:15:58,180 - Honeypot - INFO - SYSTEM: Received signal 2, shutting down...
+2025-09-08 04:15:58,181 - Honeypot - INFO - SYSTEM: Stopping honeypot services...
+2025-09-08 04:16:03,189 - Honeypot - INFO - SYSTEM: Stopped web service
+2025-09-08 04:16:03,190 - Honeypot - INFO - SYSTEM: Stopped ssh service
+2025-09-08 04:16:03,191 - Honeypot - INFO - SYSTEM: Stopped database service
+2025-09-08 04:16:03,191 - Honeypot - INFO - SYSTEM: All services stopped
+2025-09-08 04:16:03,192 - Honeypot - INFO - SYSTEM: Stopping honeypot services...
+2025-09-08 04:16:05,949 - Honeypot - WARNING - AUTH FAILED: web - admin from 127.0.0.1
+2025-09-08 04:16:08,200 - Honeypot - INFO - SYSTEM: Stopped web service
+2025-09-08 04:16:08,201 - Honeypot - INFO - SYSTEM: Stopped ssh service
+2025-09-08 04:16:08,201 - Honeypot - INFO - SYSTEM: Stopped database service
+2025-09-08 04:16:08,202 - Honeypot - INFO - SYSTEM: All services stopped
+2025-09-08 04:27:46,496 - Honeypot - INFO - SYSTEM: Honeypot system initialized
+2025-09-08 04:27:46,543 - Honeypot - INFO - SYSTEM: Initializing honeypot services...
+2025-09-08 04:27:46,548 - Honeypot - INFO - SYSTEM: Initialized 3 services
+2025-09-08 04:27:46,548 - Honeypot - INFO - SYSTEM: Starting honeypot services...
+2025-09-08 04:27:46,548 - Honeypot - INFO - SYSTEM: Started web service on port 8080
+2025-09-08 04:27:46,549 - Honeypot - INFO - SYSTEM: Started ssh service on port 2222
+2025-09-08 04:27:46,550 - Honeypot - INFO - SYSTEM: SSH honeypot listening on 0.0.0.0:2222
+2025-09-08 04:27:46,551 - Honeypot - INFO - SYSTEM: Started database service on port 3306
+2025-09-08 04:27:46,551 - Honeypot - INFO - SYSTEM: All services started successfully
+2025-09-08 04:27:46,551 - Honeypot - INFO - SYSTEM: Database honeypot (mysql) listening on 0.0.0.0:3306
+2025-09-08 04:27:46,616 - Honeypot - INFO - SYSTEM: Honeypot system is running...
+2025-09-08 04:28:11,601 - Honeypot - WARNING - ATTACK DETECTED: 404_scanning from 127.0.0.1
+2025-09-08 04:28:11,602 - Honeypot - INFO - Attack details: {
+  "requested_path": "/favicon.ico",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "attack_type": "path_enumeration"
+}
+2025-09-08 04:28:49,777 - Honeypot - INFO - SYSTEM: Received signal 2, shutting down...
+2025-09-08 04:28:49,777 - Honeypot - INFO - SYSTEM: Stopping honeypot services...
+2025-09-08 04:28:54,787 - Honeypot - INFO - SYSTEM: Stopped web service
+2025-09-08 04:28:54,788 - Honeypot - INFO - SYSTEM: Stopped ssh service
+2025-09-08 04:28:54,789 - Honeypot - INFO - SYSTEM: Stopped database service
+2025-09-08 04:28:54,789 - Honeypot - INFO - SYSTEM: All services stopped
+2025-09-08 04:28:54,790 - Honeypot - INFO - SYSTEM: Stopping honeypot services...
+2025-09-08 04:28:59,804 - Honeypot - INFO - SYSTEM: Stopped web service
+2025-09-08 04:28:59,805 - Honeypot - INFO - SYSTEM: Stopped ssh service
+2025-09-08 04:28:59,805 - Honeypot - INFO - SYSTEM: Stopped database service
+2025-09-08 04:28:59,805 - Honeypot - INFO - SYSTEM: All services stopped
